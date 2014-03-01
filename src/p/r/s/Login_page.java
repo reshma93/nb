@@ -7,6 +7,13 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+/**
+ * 
+ * @author Reshma Malla
+ * @version 1.0
+ * 
+ *
+ */
 public class Login_page extends Activity{
 
 	Button create;
